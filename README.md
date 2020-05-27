@@ -1,9 +1,10 @@
-###### Copyright (c) 2020 - Milton Lima Vincenttis
+###### Copyright (c) 2020 - Original author: Milton Lima Vincenttis
 
 ---
+
 CLI4SGA
 
-Provides a CLI for setting Spring Gateway API based on a REST interface.
+Provides a CLI for setting Spring Cloud Gateway.
 
 #### Projeto: cli4scg-app
 
