@@ -2,11 +2,7 @@
 
 ---
 
-CLI4SGA
-
 Provides a CLI for setting Spring Cloud Gateway.
-
-#### Projeto: cli4scg-app
 
 #### Objetivo:
 Oferecer meios de configurar o Spring Cloud Gateway.
